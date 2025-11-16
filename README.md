@@ -1,5 +1,5 @@
-# SDR Station
-![diagram](doc/sdr-station-diagram.jpg)
+# DATV Station
+![diagram](doc/datv-station-diagram.jpg)
 
 ## Work in Progress
 - This project is NOT ready for use
