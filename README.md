@@ -3,7 +3,7 @@
 
 ## Work in Progress
 - This project is NOT ready for use
-- A beta version will announced in due course
+- A beta version will be announced in due course
 
 ## Intent
 - An easy to build 'black box' DATV Transciever
